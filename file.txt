@@ -7,7 +7,7 @@ Line 6: This is a sample line of text.
 Line 7: This is a sample line of text.
 Line 8: This is a sample line of text.
 Line 9: This is a sample line of text.
-
+This line is changed from test branch.
 Line 11: This is a sample line of text.
 Line 12: This is a sample line of text.
 Line 13: This is a sample line of text.
@@ -23,3 +23,4 @@ Nothing just appending a line for new commit.
 adding this line to reflect 1st commit from server.
 added another line!.
 this line will be updated from local machine.
+
